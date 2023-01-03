@@ -38,7 +38,7 @@ Flink installed on mac & data viewed by Flink Dashboard
     Bank real time fraud detection
     Stock Data processing
     
-  #Gelly API
+  # Gelly API
   Graph Use case project find friend of friends
     
  
